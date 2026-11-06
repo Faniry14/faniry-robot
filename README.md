@@ -5,7 +5,7 @@ OA Robot command collection with Faniry's LAMBDAs and VBA macros.
 ## Install
 
 1. In Excel, open the OA Robot palette (`Ctrl+Shift+O`).
-2. Type `+@` and add this repository as a synchable GitHub command collection: `https://github.com/Faniry14/faniry-robot`.
+2. Type `+@` and add this file as a synchable GitHub command collection: `https://github.com/Faniry14/faniry-robot/blob/main/Lambda.xlsm` (the link to the file, not to the repository).
 3. Open the case workbook and run **Import My Lambdas** (`FIL`).
 
 ## Commands
